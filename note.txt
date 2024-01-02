@@ -1,0 +1,5 @@
+props
+parent :data  to child with props:{}
+
+toggle 
+ this.showDetail = !this.showDetail
